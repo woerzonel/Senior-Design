@@ -1,0 +1,5 @@
+Will need an Auth code
+
+The method ping
+
+private method that will store the keg info in the database
